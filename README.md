@@ -8,6 +8,8 @@ How to use :
 - Long press on your homescreen
 - Choose IP Public and drag it 
 - Just wait during the initialization 
+- Click on refresh icon to refresh manualy the Public IP
+- automatic copy of IP in clipboard
 
 Screenshots : 
 
